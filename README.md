@@ -116,9 +116,3 @@ DIP_Project/
 *Department of Computer Science, IIT Bhilai*
 
 ---
-
-## 📚 Reference
-
-Z. Wang and X. Zhang,  
-“Block-level double JPEG compression detection for image forgery localization,”  
-_IEEE Transactions on Information Forensics and Security_
