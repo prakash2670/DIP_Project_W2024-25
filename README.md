@@ -57,7 +57,7 @@ These are consistent with the **increased regularity and sparsity** caused by do
 
 ## 🔧 Tools Used
 
-- Python 3.x
+- Python 3.12.3
 - `numpy`, `pandas`, `scipy`, `matplotlib`
 - `PIL`, `pyarrow`, `tqdm`
 - Ubuntu 22.04, 8-core CPU
