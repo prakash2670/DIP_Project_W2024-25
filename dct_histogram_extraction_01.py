@@ -7,9 +7,9 @@ from multiprocessing import Pool, cpu_count
 import pandas as pd
 
 # === CONFIGURATION ===
-input_folder = "/home/user/Desktop/DIP/extracted_01_images"       # ⬅️ Replace this
-visual_folder = "/home/user/Desktop/DIP/histograms_01_visualizations"       # ⬅️ Replace this
-csv_folder = "/home/user/Desktop/DIP/histograms_01_csv"              # ⬅️ Replace this
+input_folder = "/home/user/Desktop/DIP/extracted_01_images"      
+visual_folder = "/home/user/Desktop/DIP/histograms_01_visualizations"      
+csv_folder = "/home/user/Desktop/DIP/histograms_01_csv"              
 
 b = 100
 bins = np.arange(-b, b + 1)
